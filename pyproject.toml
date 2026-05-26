@@ -1,0 +1,12 @@
+[project]
+name = "convexfunctiondiff"
+version = "0.1.0"
+description = "Python code for visualizing pathological convex functions with non-differentiable points."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "ipykernel",
+    "matplotlib",
+    "numpy",
+    "scipy",
+]
